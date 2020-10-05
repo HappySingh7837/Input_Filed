@@ -1,6 +1,6 @@
 # input_field
 
-A new Flutter package project.
+A new package for creating custom inputs. Credit to FilledStack.com. This is built for only practice purpose
 
 ## Getting Started
 
